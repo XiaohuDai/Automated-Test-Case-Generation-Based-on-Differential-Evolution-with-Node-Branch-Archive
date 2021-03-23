@@ -4,7 +4,7 @@
 
 ​We proposeed a node branch archive strategy, which can record the relationship between node branch direction and the value of test case variables, and cover more paths through this driven search-based algorithms. The experimental results show that compared with other state-of-the-art algorithms, the differential evolution with node branch archive (NBAr-DE) can significantly reduce the number of redundant test cases and the time consumption.
 
-## 2. Code instructions
+## 2. Source code instructions
 
 The instructions for using the code are as follows: 
 
