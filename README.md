@@ -1,4 +1,4 @@
-# Automated-Test-Case-Generation-Based-on-Differential-Evolution-with-Node-Branch-Archive
+# Automated Test Case Generation Based on Differential Evolution with Node Branch Archive
 
 ## 1. Introduce
 
