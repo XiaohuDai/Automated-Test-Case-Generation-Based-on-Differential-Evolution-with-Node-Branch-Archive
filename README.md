@@ -44,4 +44,6 @@ The specific functions are as follows:
 
  • Std.T: the standard deviat of test case. The smaller the value of Std.m, the more stable performance of the algorithm.
 
- • Ave.c: the average proportion of path coverage. 405 • Time: Average time(ms) required for 30 independent runs.  
+ • Ave.c: the average proportion of path coverage. 
+ 
+ • Time: Average time(ms) required for 30 independent runs.  
